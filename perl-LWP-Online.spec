@@ -4,7 +4,6 @@
 
 %define		pdir	LWP
 %define		pnam	Online
-%include	/usr/lib/rpm/macros.perl
 Summary:	LWP::Online - Does your process have access to the web
 Name:		perl-LWP-Online
 Version:	1.08
